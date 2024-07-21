@@ -1,0 +1,5 @@
+100 , ehsan khoshaein , 17500
+101 , ali tabatabaei , 4500
+102 , sasan yafteh , 7000
+103 , ehsan khoshaein , 4500
+104 , reza naseri , 8000
